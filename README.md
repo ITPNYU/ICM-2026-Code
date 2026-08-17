@@ -1,4 +1,4 @@
-# ICM-2025-Code
+# ICM-2026-Code
 Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 
 ## Syllabus Overview
@@ -11,16 +11,16 @@ The following is an overview of how we will be spending class time over the next
 * 6 -- [More Repetition: Objects and Arrays](weeks/06_objects.md)
 * 7 -- [The DOM](weeks/07_dom.md) and Final Project Presentations
   
-* 8 - 14 -- [ICM media](https://github.com/ITPNYU/ICM-2025-media)
+* 8 - 14 -- [ICM media](https://github.com/ITPNYU/ICM-2026-media)
   
 ## Section Info
-* 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Mimi-01)
-* 02 [Mimi](sections/02_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Mimi-02)
-* 03 [Shawn Van Every](sections/03_Shawn.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Shawn-03)
-* 04 [Ellen](sections/04_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Ellen-04)
-* 05 [John-Henry](sections/05_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-John-Henry-05)
-* 06 [Dave](sections/06_Dave.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Dave-06)
-* 07 [Sam](sections/07_Sam.md) | [Homework](https://github.com/ITPNYU/ICM-2025-Code/wiki/Homework-Sam-07)
+* 01 [John-Henry](sections/01_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-John-Henry-01)
+* 02 [Ellen](sections/02_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Ellen-02)
+* 03 [Dave](sections/03_Dave.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Dave-03)
+* 04 [Mimi](sections/04_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Mimi-04)
+* 05 [Luisa](sections/05_Luisa.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Luisa-05)
+* 06 [Allison](sections/05_Allison.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Allison-06)
+* 07 [Mimi](sections/07_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Mimi-07)
 
 ## Questions and Discussion
 - Find us on Discord under Help >> icm
@@ -37,7 +37,7 @@ The following is an overview of how we will be spending class time over the next
 - [Coding Lab](https://codinglab.itp.io/) for drop-in help
 
 ## Inspiration
-- [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2025-Code/wiki/Inspiration)
+- [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2026-Code/wiki/Inspiration)
 
 ## COURSE DESCRIPTION
 The 17th century philosopher Spinoza described "wonder" as a state of suspension in the mind, a paralysis resulting from a confrontation with something wholly new, disconnected from past experience such that judgements of whether it is good or bad are not possible. At this moment in time, we are caught in such a state of suspension with digital technologies. Creating computer applications, instead of simply using them will provide you with a deeper appreciation for the essential possibilities, limitations and unknowns of computation.
