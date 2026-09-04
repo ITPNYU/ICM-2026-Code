@@ -1,10 +1,10 @@
 ## Information
 
-* Luisa Pereira, Email
+* Luisa Pereira, luisa.ph@nyu.edu
 * Time: Tuesdays 12:20 - 2:50PM EST
 * Location: Room 410
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Luisa-05)
-* [Office Hours Signup](<url>)
+* [Office Hours Signup](https://calendar.app.google/WXjHHFK8qSViDpdE8)
 
 ## Dates
 
