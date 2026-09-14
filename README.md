@@ -22,7 +22,7 @@ The following is an overview of how we will be spending class time over the next
 - 03 [Dave](sections/03_Dave.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Dave-03)
 - 04 [Mimi](sections/04_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Mimi-04)
 - 05 [Luisa](sections/05_Luisa.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Luisa-05)
-- 06 [Allison](sections/05_Allison.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Allison-06)
+- 06 [Allison](sections/06_Allison.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Allison-06)
 - 07 [Mimi](sections/07_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Mimi-07)
 
 ## Questions and Discussion
