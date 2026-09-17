@@ -14,5 +14,5 @@
 4. Wednesday, September 23
 5. Wednesday, September 30
 6. Wednesday, October 7
-7. Wednesday, October 21 <-- No class October 14!
+7. Wednesday, October 14 <-- We will have class!
 
