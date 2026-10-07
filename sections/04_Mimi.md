@@ -4,7 +4,7 @@
 * Time: Wednesdays 12:20 - 2:50PM EST
 * Location: Room 412
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2026-Code/wiki/Homework-Mimi-04)
-* [Office Hours Signup](https://calendar.app.google/QuhsyV4LJqoicZXr7)
+* [Office Hours Signup](https://calendar.app.google/nu7UXM8W9HqiDsmL8)
 
 ## Dates
 
